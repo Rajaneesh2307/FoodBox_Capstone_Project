@@ -18,6 +18,7 @@ Filtering
 Sorting
 Dynamic data
 Responsive and compatible with different devices
+
 Recommended technologies:
 
 Database management: MySQL and Oracle
