@@ -8,6 +8,7 @@ Foodbox is a restaurant chain that delivers food items of different cuisines at 
 You are hired as the Full Stack Java developer and are asked to develop the web application. The management team has provided you with the requirements and their business model so that you can easily arrange different components of the application.
 
 Features of the application:
+
 1.	Registration
 2.	Login
 3.	Payment gateway
@@ -18,6 +19,7 @@ Features of the application:
 8.	Responsive and compatible with different devices
 
 Recommended technologies:
+
 1.	Database management: MySQL and Oracle
 2.	Backend logic: Java programming, NodeJS
 3.	Frontend development: JSP, Angular, Bootstrap, HTML/CSS, and Javascript
@@ -25,6 +27,7 @@ Recommended technologies:
 5.	DevOps and production technologies: Git, GitHub, Jenkins, Docker, Kubernetes, and AWS
 
 Project development guidelines:
+
 •	The project will be delivered within four sprints with every sprint delivering a minimal viable product.
 •	It is mandatory to perform proper sprint planning with user stories to develop all the components of the project.
 •	The learner can use any technology from the above-mentioned technologies for different layers of the project.
@@ -38,12 +41,14 @@ Project development guidelines:
 •	There will be two portals in the application, namely admin and user portal.
 
 Admin Portal:
+
 The admin portal deals with all the backend data generation and product information. The admin user should be able to:
 •	Add or remove different cuisines to or from the application to build a rich product line
 •	Edit food item details like name, price, cuisine, description, and offers to keep it aligned to the current prices
 •	Enable or disable the food items
 
 User Portal:
+
 It deals with the user activities. The end-user should be able to:
 •	Sign-in to the application to maintain a record of activities
 •	Search for food items based on the search keyword
